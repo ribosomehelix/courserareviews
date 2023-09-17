@@ -1,2 +1,2 @@
 # courserareviews
-my reviews on free courses on coursera
+I review free courses on Coursera
